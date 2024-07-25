@@ -12,12 +12,12 @@ The objective of this challenge is to open `notepad.exe` through the help of the
 `A`, `B`, `C`, `D`, `E` - Registers
 `TValue` - Wrapper for all Lua values  
 `TString` - Immutable objects used for Lua strings  
-`L->namecall` - Lua state field that is a `TString` pointer used when a userdata has a `__namecall` method  
+`L->namecall` - Lua state field that is a `TString` pointer, used when a userdata has a `__namecall` method  
 
 ### Instructions
 1. Clone the repository.
 2. Build the LuauCTF project.
-3. Run Luau scripts using `LuauCTF.exe <filename>`.
+3. Run Luau scripts by doing `LuauCTF.exe <filename>`.
 
 ### References
 
