@@ -1,4 +1,4 @@
-# Luau CTF
+# Luau CTF 2024
 
 Welcome to the Luau CTF challenge! This repository contains the necessary files to participate.
 
